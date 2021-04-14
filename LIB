@@ -803,7 +803,6 @@ do
 			ImageColor3 = themes.DarkContrast,
 			ScaleType = Enum.ScaleType.Slice,
 			SliceCenter = Rect.new(2, 2, 298, 298)
-			local plr = Textbox.Text
 		}, {
 			utility:Create("TextLabel", {
 				Name = "Title",
